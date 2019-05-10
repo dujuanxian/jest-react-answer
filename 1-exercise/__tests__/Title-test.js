@@ -8,5 +8,5 @@ afterEach(cleanup);
 it('Title组件渲染内容为Hello World', () => {
   const { getByTestId } = render(<Title />);
 
-  expect(getByTestId('title')).toHaveTextContent('Hello Worl');
+  expect(getByTestId('title')).toHaveTextContent(/^Hello World$/);
 });
