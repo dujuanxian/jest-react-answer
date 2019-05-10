@@ -25,3 +25,9 @@ yarn lint
 ```
 
 代码在提交前会自动检查代码风格和代码自动格式化，请处理 lint 问题后再提交代码。
+
+# 参考文档
+
+[React with Jest](https://jestjs.io/docs/zh-Hans/tutorial-react)
+[react-testing-library](https://testing-library.com/docs/react-testing-library/intro)
+[jest-dom](https://github.com/testing-library/jest-dom)
