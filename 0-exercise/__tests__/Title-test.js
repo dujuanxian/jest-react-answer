@@ -5,7 +5,7 @@ import Title from '../Title';
 
 afterEach(cleanup);
 
-it('Title组件渲染内容为Hello World', () => {
+test('Title组件渲染内容为Hello World', () => {
   const { getByTestId } = render(<Title />);
 
   // TODO 0: 这里只是给学生演示一个最简单的React组件测试
