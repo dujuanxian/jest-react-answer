@@ -21,6 +21,6 @@ test('FindNameByTel组件通过输入手机号渲染姓名', () => {
   // <--start
   // TODO 3: 给出正确的simulate和assertion
   fireEvent.change(input, { target: { value: '15000000000' } });
-  expect(name).toHaveTextContent(/^Tom$/);
+  expect(name).toHaveTextContent('Tom');
   // --end->
 });
