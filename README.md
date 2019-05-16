@@ -28,6 +28,7 @@ yarn lint
 
 # 参考文档
 
-[React with Jest](https://jestjs.io/docs/zh-Hans/tutorial-react)
-[react-testing-library](https://testing-library.com/docs/react-testing-library/intro)
-[jest-dom](https://github.com/testing-library/jest-dom)
+- [React with Jest](https://jestjs.io/docs/zh-Hans/tutorial-react)
+- [react-testing-library](https://testing-library.com/docs/react-testing-library/intro)
+- [jest-dom](https://github.com/testing-library/jest-dom)
+- [axios](https://github.com/axios/axios)
